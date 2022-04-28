@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NotesOrange/static/css/main.0e42bec5.chunk.css",
+    "main.js": "/NotesOrange/static/js/main.9d977b83.chunk.js",
+    "main.js.map": "/NotesOrange/static/js/main.9d977b83.chunk.js.map",
+    "runtime-main.js": "/NotesOrange/static/js/runtime-main.cc2a8f37.js",
+    "runtime-main.js.map": "/NotesOrange/static/js/runtime-main.cc2a8f37.js.map",
+    "static/js/2.cb2cc140.chunk.js": "/NotesOrange/static/js/2.cb2cc140.chunk.js",
+    "static/js/2.cb2cc140.chunk.js.map": "/NotesOrange/static/js/2.cb2cc140.chunk.js.map",
+    "index.html": "/NotesOrange/index.html",
+    "static/css/main.0e42bec5.chunk.css.map": "/NotesOrange/static/css/main.0e42bec5.chunk.css.map",
+    "static/js/2.cb2cc140.chunk.js.LICENSE.txt": "/NotesOrange/static/js/2.cb2cc140.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc2a8f37.js",
+    "static/js/2.cb2cc140.chunk.js",
+    "static/css/main.0e42bec5.chunk.css",
+    "static/js/main.9d977b83.chunk.js"
+  ]
+}

@@ -1,0 +1,101 @@
+.mode-light{
+    background-color: #fff;
+    color:black;
+}
+.mode-dark{
+    background-color: #0d1117;
+    color: #fff;
+}
+
+.note_container .note_content h1{
+    font-size: 1.5rem;
+}
+
+.note_container{
+    border: 1px solid rgba(0,0,0,.125);
+}
+.note_container h2 button{
+    color: rgb(0, 124, 240);
+    font-weight: 500;
+}
+.note_container h2 button span{
+    text-align: right;
+}
+.btn_content{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.badge{
+    background-color: #28b62c;
+}
+
+.ac_btn_note::after{
+    content:none
+}
+.card-header{
+    font-weight: 500;
+}
+.card-body p{
+    font-size: 1.1rem;
+    margin: 0;
+}
+.notes_container_main{
+    padding: 10px;
+    display: grid;
+    gap: 1rem;
+}
+
+.accordion-button:focus,.accordion-button:active{
+    outline: none !important;
+    box-shadow: none;
+}
+.accordion-button{
+    padding: 0.8rem 1.25rem;
+}
+.card-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.note_btn_group button{
+    font-size: 0.9rem;
+}
+.note_btn_group{
+    margin-top: 10px;
+    margin-bottom: 30px !important;
+}
+
+.card-body p span{
+    font-size: 0.9rem;
+}
+.accordion-body p{
+    font-size: 1rem;
+}
+@media only screen and (max-width: 350px) {
+    .ac_btn_note{
+        padding: 10px;
+    }
+}
+.accordion-body .badge{
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .btn_content .badge{
+        display: none;
+    }
+    .accordion-body .badge{
+        display: inline-block;
+    }
+    .btn_content{
+        display: block;
+        line-height: 1.5;
+    }
+    .notes_container_main{
+        margin-top: 12px !important;
+    }
+}

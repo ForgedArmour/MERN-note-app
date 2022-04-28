@@ -1,0 +1,16 @@
+
+.add_notegroup_container{
+    margin-top: 50px;
+}
+
+.textmode-dark{
+    color: #fff;
+}
+.textmode-light{
+    color: black;
+}
+
+.create_notegp_btn:focus,.create_notegp_btn:active{
+    outline: none !important;
+    box-shadow: none;
+}
