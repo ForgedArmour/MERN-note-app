@@ -43,6 +43,8 @@ Run the backend and frontend
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/73870072/177918826-b60ddf69-8cb2-475d-be39-951ac054e7b7.png)
+![Screenshot (400)](https://user-images.githubusercontent.com/73870072/177918942-50840c72-c9ed-4a02-9390-ac40592c076f.png)
 
+
+![Screenshot (403)](https://user-images.githubusercontent.com/73870072/177919008-27345152-d059-4ef8-99e6-3f241c4acd7d.png)
 
