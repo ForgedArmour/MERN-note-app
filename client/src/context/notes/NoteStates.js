@@ -2,8 +2,8 @@ import React, { useState } from 'react'
 import noteContext from './NoteContext'
 
 export default function NoteStates(props) {
-  const host = 'https://notesorange.herokuapp.com/user/notes/';
-  const userHost = 'https://notesorange.herokuapp.com/user/auth/';
+  const host = 'https://notesorange.up.railway.app/user/notes/';
+  const userHost = 'https://notesorange.up.railway.app/user/auth/';
   const body = document.getElementsByTagName("body")[0];
   const defaultNote = [];
   const [isLogin, setIsLogin] = useState(localStorage.getItem("token") ? true : false);
