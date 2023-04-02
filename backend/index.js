@@ -14,6 +14,9 @@ app.use('/user/notes', require('./routes/notes'))
 app.get('/', (req, res) => {
     res.send('Hello world');
 })
+app.get('/test', (req, res) => {
+    res.send('Test success');
+})
 app.listen(port, () => {
     console.log(`Listening at port http://localhost:${port}`);
 })
